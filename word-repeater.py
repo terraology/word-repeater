@@ -8,7 +8,7 @@ def main():
     for i in range(1, n):
         print(word)
 
-#fix
+#fix m
 
 if __name__ == "__main__":
     main()
